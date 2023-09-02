@@ -1,6 +1,6 @@
 # Zum Kontinent des eisigen Südens.
 
-<img align="right" height="150" src="https://github.com/kogo59/Im_Auto_um_die_Welt/assets/13177792/1653b3e4-ce26-4c8d-9848-f64e6e55c41e">
+<img align="right" height="150" src="https://github.com/kogo59/Zum_Kontinent_des_eisigen_Suedens/assets/13177792/cf7915cf-5dbc-4f56-8eda-8cb4cb1da88a">
 
 This is a git repository of the source files for the book "Zum Kontinent des eisigen Südens.".
 
