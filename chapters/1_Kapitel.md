@@ -1059,5 +1059,5 @@ Wesen gehörten.
 
 [^0127]: [*Dr. E. Werth*: vergleiche [Emil Werth](https://de.wikipedia.org/wiki/Emil_Werth)]{.footnote}
 
-[^0128]: [*Dr. E. Werth*: vergleiche [Josef Enzensperger](https://de.wikipedia.org/wiki/Josef_Enzensperger)]{.footnote}
+[^0128]: [*Josef Enzensperger*: vergleiche [Josef Enzensperger](https://de.wikipedia.org/wiki/Josef_Enzensperger)]{.footnote}
 
