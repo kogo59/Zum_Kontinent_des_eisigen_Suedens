@@ -97,7 +97,26 @@ zuteil werden ließ.
 :::
 
 
-# Abbildungen.<br /> {#ABB .unnumbered}
+# Karten und Tafeln.<br /> {#ABB .unnumbered}
 
-1. [Die Indusquelle.](ch004.xhtml#b0027_1)
+(@) Route des „Gauß“ 1901 — 1903, nach den vorläufigen Bestimmungen. (Als Anlage.)
+(@) Fahrten und Forschungen des „Gauß“ im indischen Ozean und im südlichen Eismeer
+(@) [Längsschnitt des „Gauß“.](ch006.xhtml#b064) Von A. Stehr
+(@) [Maschinenanlage und Rohrleitungen des „Gauß“.](ch006.xhtml#b077) Von A. Stehr
+(@) [Hauptspant des „Gauß“.](ch006.xhtml#b081) Von A. Stehr
+(@) Die Kapverdeninsel Sao Vicente. Von E. Werth
+(@) Kippthermometer. Von A. Stehr
+(@) Der Tafelberg bei Kapstadt. Nach M. Jurisch
+(@) Zwei Crozetinseln
+(@) Panorama der Beobachtungsbucht auf Kerguelen. Von E. Philip
+(@) Die Umgebung der Kerguelenstation. Von H. Gazert
+(@) Heard-Eiland
+(@) Gruppen von Eiskristallpyramiden. Von H. Gazert
+(@) Magnetische Registrierkurven. Von Fr. Bidlingmaier
+(@) Die Posadowskybai mit dem Winterlager des „Gauß“
+(@) Eisstrukturen. Von H. Gazert
+(@) St. Paul und Neu-Amsterdam. Nach Velain
+(@) Skizze der Karroo
+(@) Verwitterungserscheinungen. Von H. Gazert und E. Philipi
+(@) [Der „Gauß“ im Scholleneise bei der Lotung.](ch001.xhtml#b000) Von E. Philippi. (Als Titelbild.)
 
