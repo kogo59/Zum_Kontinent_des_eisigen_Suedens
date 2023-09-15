@@ -1301,6 +1301,10 @@ der bleibenden Erfolge gewesen ist.
 
 :::
 
+:::: align-center
+****
+::::
+
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^0201]: [*Dr.Erich von Drygalski*: vergleiche [Erich von Drygalski](https://de.wikipedia.org/wiki/Erich_von_Drygalski)]{.footnote}

@@ -1003,6 +1003,10 @@ Wesen gehörten.
 
 :::
 
+:::: align-center
+****
+::::
+
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^0101]: [*Henry Villard*: vergleiche [Henry Villard](https://de.wikipedia.org/wiki/Henry_Villard)]{.footnote}

@@ -1000,14 +1000,42 @@ ankämpfen konnten, — ob damals eine stärkere Maschine ausgereicht hätte, is
 sehr zu bezweifeln. Den Schneestürmen des Südpolargebiets dürfte keine Maschine
 gewachsen sein, gleichwie es vergeblich wäre, etwa mit stärkerer Maschine oder
 mit Eisbrechern Polarschollen durchbrechen oder forcieren zu wollen, wo sie
-nicht selbst die Wege öffnen. Zur Bewältigung der Kräfte des Polareises sind
-noch keine Maschinen gebaut.
+nicht selbst die Wege öffnen. *Zur Bewältigung der Kräfte des Polareises sind
+noch keine Maschinen gebaut*.
 
 :::: { .wrap-100 .break-before  }
 ![Hauptspant des „Gauß“.](Zum_Kontinent_des_eisigen_Suedens_081.jpg "Hauptspant des „Gauß“."){#b081}
 ::::
 
+Auch an *Widerstandsfähigkeit* gegen die Angriffe des Eises hat der „Gauß“
+vollkommen genügt. Die Form war rund genug, um den Eisdruck abzulenken; Stöße
+haben das Schiff durch seinen ganzen Körper erzittern lassen, aber in der
+Außenhaut auch nicht eine Wunde geschlagen; eine Pressung verursachte
+reichlichen Lärm, mehr aber an der Außenhaut, wo die Schollen sich drängten und
+drückten, als an den Balken und Knien und Stützen, welche den Eisdruck nach
+innen zu aufnahmen.
+
+Sonach kann man das Urteil dahin zusammenfassen, daß die Form des „Gauß“ rund
+genug war, um den Angriffen des Eises die geeigneten Aufnahmeflächen zu bieten,
+zumal die innere Stärke keine Bedenken über seine Widerstandsfähigkeit bei den
+Bewohnern aufkommen ließ, und andererseits nicht zu rund, um die
+*Seetüchtigkeit* des Schiffs dadurch herabzusetzen, zumal für dieselbe durch die
+größere Breite und die Lage des Kiels noch in anderer Weise gesorgt war. Die
+*Geschwindigkeit* war für hohe See zu gering, doch war das Schiff auch nicht
+dafür gebaut und man lernte damit rechnen; für das Eis reichte sie aus, und in
+den Fällen, wo sie nicht ausreichte, dürfte sich im Eise auch die stärkste
+Maschine als machtlos erweisen. Mögen somit manche Einzelheiten, von denen ich
+sprach, bei einem künftigen Bau sich anders gestalten, vielleicht auch
+verbessern lassen, so tut das der vollen Würdigung des vortrefflichen Schiffes
+keinen Abbruch, das in vielen verschiedenen und schwierigen Lagen, mochten sie
+erwartet sein oder nicht, *voll und ganz seinen Zweck erfüllt und sich glänzend
+bewährt hat.*
+
 :::
+
+:::: align-center
+****
+::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
 

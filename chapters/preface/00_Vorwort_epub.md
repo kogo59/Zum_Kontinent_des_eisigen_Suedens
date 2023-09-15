@@ -104,7 +104,7 @@ zuteil werden ließ.
 (@) [Längsschnitt des „Gauß“.](ch006.xhtml#b064) Von A. Stehr
 (@) [Maschinenanlage und Rohrleitungen des „Gauß“.](ch006.xhtml#b077) Von A. Stehr
 (@) [Hauptspant des „Gauß“.](ch006.xhtml#b081) Von A. Stehr
-(@) Die Kapverdeninsel Sao Vicente. Von E. Werth
+(@) [Die Kapverdeninsel Sao Vicente.](ch007.xhtml#b098) Von E. Werth
 (@) Kippthermometer. Von A. Stehr
 (@) Der Tafelberg bei Kapstadt. Nach M. Jurisch
 (@) Zwei Crozetinseln
