@@ -1,8 +1,6 @@
 # <small>4. Kapitel.</small><br />Von Kiel nach den Kapverden. {#vier .unnumbered }
 
 ::: justified
-
-
 Die Abreise der Expedition hatte ich ursprünglich auf Anfang September
 angesetzt, um in etwa zweimonatlicher Fahrt Kapstadt und dann Anfang Dezember
 Kerguelen erreichen zu können. Wir hätten diese Insel dann Ende Dezember wieder
