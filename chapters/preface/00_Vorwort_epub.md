@@ -107,7 +107,8 @@ zuteil werden ließ.
 (@) [Die Kapverdeninsel Sao Vicente.](ch007.xhtml#b098) Von E. Werth
 (@) [Kippthermometer.](ch007.xhtml#b117)  Von A. Stehr
 (@) [Der Tafelberg bei Kapstadt.](ch008.xhtml#b144) Nach M. Jurisch
-(@) Zwei Crozetinseln
+(@) [Zwei Crozetinseln](ch009.xhtml#b168)
+(@) [Kerguelen](ch010.xhtml#b1765)
 (@) Panorama der Beobachtungsbucht auf Kerguelen. Von E. Philip
 (@) Die Umgebung der Kerguelenstation. Von H. Gazert
 (@) Heard-Eiland
