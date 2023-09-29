@@ -108,9 +108,9 @@ zuteil werden ließ.
 (@) [Kippthermometer.](ch007.xhtml#b117)  Von A. Stehr
 (@) [Der Tafelberg bei Kapstadt.](ch008.xhtml#b144) Nach M. Jurisch
 (@) [Zwei Crozetinseln](ch009.xhtml#b168)
-(@) [Kerguelen](ch010.xhtml#b1765)
-(@) Panorama der Beobachtungsbucht auf Kerguelen. Von E. Philip
-(@) Die Umgebung der Kerguelenstation. Von H. Gazert
+(@) [Kerguelen](ch010.xhtml#b176)
+(@) [Panorama der Beobachtungsbucht auf Kerguelen.](ch011.xhtml#b193a) Von E. Philip
+(@) [Die Umgebung der Kerguelenstation.](ch011.xhtml#b195) Von H. Gazert
 (@) Heard-Eiland
 (@) Gruppen von Eiskristallpyramiden. Von H. Gazert
 (@) Magnetische Registrierkurven. Von Fr. Bidlingmaier
