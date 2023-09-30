@@ -111,7 +111,7 @@ zuteil werden ließ.
 (@) [Kerguelen](ch010.xhtml#b176)
 (@) [Panorama der Beobachtungsbucht auf Kerguelen.](ch011.xhtml#b193a) Von E. Philip
 (@) [Die Umgebung der Kerguelenstation.](ch011.xhtml#b195) Von H. Gazert
-(@) Heard-Eiland
+(@) [Heard-Eiland](ch012.xhtml#b212)
 (@) Gruppen von Eiskristallpyramiden. Von H. Gazert
 (@) Magnetische Registrierkurven. Von Fr. Bidlingmaier
 (@) Die Posadowskybai mit dem Winterlager des „Gauß“
