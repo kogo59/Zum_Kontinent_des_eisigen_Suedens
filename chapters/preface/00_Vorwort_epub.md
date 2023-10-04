@@ -100,7 +100,7 @@ zuteil werden ließ.
 # Karten und Tafeln.<br /> {#ABB .unnumbered}
 
 (@) Route des „Gauß“ 1901 — 1903, nach den vorläufigen Bestimmungen. (Als Anlage.)
-(@) Fahrten und Forschungen des „Gauß“ im indischen Ozean und im südlichen Eismeer
+(@) [Fahrten und Forschungen des „Gauß“ im indischen Ozean und im südlichen Eismeer](ch013.xhtml#b212)
 (@) [Längsschnitt des „Gauß“.](ch006.xhtml#b064) Von A. Stehr
 (@) [Maschinenanlage und Rohrleitungen des „Gauß“.](ch006.xhtml#b077) Von A. Stehr
 (@) [Hauptspant des „Gauß“.](ch006.xhtml#b081) Von A. Stehr

@@ -1,4 +1,4 @@
-# <small>9. Kapitel.</small><br />Über Heard Eiland zur Eiskante. {#neun.unnumbered }
+# <small>9. Kapitel.</small><br />Über Heard Eiland zur Eiskante. {#neun .unnumbered }
 
 ::: justified
 
