@@ -555,7 +555,7 @@ Solche Erwägungen und Beobachtungen gab es; sicheres lehrten sie nicht, aber es
 galt doch, danach zu handeln. So wurde gegen 9 Uhr abends, als es dunkelte, noch
 eine letzte Umschau gehalten durch Björvig vom Mast, durch Ruser und mich von
 der Brücke, und wir erörterten dann die Situation. Schnellen Laufes waren wir
-mittler weile in dem Ostwinde zwischen den Kanten westwärts gekommen und auch
+mittlerweile in dem Ostwinde zwischen den Kanten westwärts gekommen und auch
 dorthin schien sich nun vor uns alles zu schließen. Unsere Beobachtungen
 stimmten hierin nicht ganz überein. Sicher lagen dort viele Eisberge und
 dazwischen auch Schollen, zweifelhaft aber blieb es, ob alles geschlossen sei,
