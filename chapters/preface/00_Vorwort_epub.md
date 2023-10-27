@@ -113,7 +113,7 @@ zuteil werden ließ.
 (@) [Die Umgebung der Kerguelenstation.](ch011.xhtml#b195) Von H. Gazert
 (@) [Heard-Eiland](ch012.xhtml#b212)
 (@) [Gruppen von Eiskristallpyramiden.](ch014.xhtml#b265) Von H. Gazert
-(@) Magnetische Registrierkurven. Von Fr. Bidlingmaier
+(@) [Magnetische Registrierkurven. Von Fr. Bidlingmaier](ch017.xhtml#b362a)
 (@) Die Posadowskybai mit dem Winterlager des „Gauß“
 (@) Eisstrukturen. Von H. Gazert
 (@) St. Paul und Neu-Amsterdam. Nach Velain
