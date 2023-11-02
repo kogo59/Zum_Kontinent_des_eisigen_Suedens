@@ -1014,7 +1014,7 @@ das Übergewicht, da er die Auslassungen von Schwarz meist schon in der Stunde
 des Erscheinens zu glossieren in der Lage war.
 
 :::: { .wrap-80  }
-![Koch Wilhelm Schwarz und Steward August Besenbrom.](Zum_Kontinent_des_eisigen_Suedens_050.jpg "Koch Wilhelm Schwarz und Steward August Besenbrom."){#b050}
+![Koch Wilhelm Schwarz und Steward August Besenbrock.](Zum_Kontinent_des_eisigen_Suedens_050.jpg "Koch Wilhelm Schwarz und Steward August Besenbrock."){#b050}
 ::::
 
 An Menge der Pflichten sowohl, wie an Tüchtigkeit zu deren Bewältigung von

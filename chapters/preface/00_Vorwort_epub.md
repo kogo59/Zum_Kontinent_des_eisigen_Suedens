@@ -114,8 +114,7 @@ zuteil werden ließ.
 (@) [Heard-Eiland](ch012.xhtml#b212)
 (@) [Gruppen von Eiskristallpyramiden.](ch014.xhtml#b265) Von H. Gazert
 (@) [Magnetische Registrierkurven. Von Fr. Bidlingmaier](ch017.xhtml#b362a)
-(@) Die Posadowskybai mit dem Winterlager des „Gauß“
-(@) Eisstrukturen. Von H. Gazert
+(@) [Die Posadowskybai mit dem Winterlager des „Gauß“](ch019.xhtml#b440)
 (@) St. Paul und Neu-Amsterdam. Nach Velain
 (@) Skizze der Karroo
 (@) Verwitterungserscheinungen. Von H. Gazert und E. Philipi
