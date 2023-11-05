@@ -1637,7 +1637,7 @@ Am „Gauß“ fanden wir trotz der kurzen Abwesenheit auch einen merklichen
 *Fortschritt in der Zersetzung.* Wasserlöcher standen am Bug und am Heck: die
 Wehen der Westseite waren zusammengesackt, neben der einen dehnte sich eine
 häßliche Lache, die unter dem Einfluß von Pinguinblut und Abfällen aller Art
-entstanden war, sich in der Folgezeit noch mehr erweiterte und später Titicasee
+entstanden war, sich in der Folgezeit noch mehr erweiterte und später Titicacasee
 hieß. An Bord war alles wohl. Die Zimmerleute arbeiteten an Reparaturen der bei
 früheren Reisen zerbrochenen Schlitten. Aus den Resten der Windmühle war eine
 Reppschlägermaschine konstruiert, auf welcher die Bootsleute Kabelgarn drehten.
