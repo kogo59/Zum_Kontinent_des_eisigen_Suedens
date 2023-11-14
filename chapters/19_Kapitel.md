@@ -2,7 +2,6 @@
 
 ::: justified
 
-
 Die Zeit, welche jetzt für die Expedition folgte, war vielleicht die
 aufregendste, welche sie hatte, einförmig durch die Umgebung, einförmig durch
 das, was zu tun war, und doch in steter Spannung über den Erfolg. Dem unruhigen
@@ -979,7 +978,7 @@ war zu erwarten, daß die Eisberge uns entweder Halt gewähren, oder daß wir an
 ihnen vorbei oder von ihnen forttreiben würden.
 
 Die folgenden Tage brachten uns wirklich etwas südliche Drift, so daß wir bis
-gegen 65½ südlicher Breite vorrückten, also nur noch einen halben Grad von der
+gegen 65½° südlicher Breite vorrückten, also nur noch einen halben Grad von der
 Breite unseres ersten Winterquartiers entfernt waren. Dieses war erfolgt,
 obgleich wir auch westliche und südliche Winde gehabt hatten, die uns also nach
 Norden hätten führen müssen, so daß wir zu der Erwägung kamen, ob vielleicht

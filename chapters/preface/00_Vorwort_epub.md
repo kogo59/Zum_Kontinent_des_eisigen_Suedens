@@ -115,7 +115,7 @@ zuteil werden ließ.
 (@) [Gruppen von Eiskristallpyramiden.](ch014.xhtml#b265) Von H. Gazert
 (@) [Magnetische Registrierkurven. Von Fr. Bidlingmaier](ch017.xhtml#b362a)
 (@) [Die Posadowskybai mit dem Winterlager des „Gauß“](ch019.xhtml#b440)
-(@) St. Paul und Neu-Amsterdam. Nach Velain
+(@) [St. Paul und Neu-Amsterdam. Nach Velain](ch023.xhtml#b556a)
 (@) Skizze der Karroo
 (@) Verwitterungserscheinungen. Von H. Gazert und E. Philipi
 (@) [Der „Gauß“ im Scholleneise bei der Lotung.](ch001.xhtml#b000) Von E. Philippi. (Als Titelbild.)
