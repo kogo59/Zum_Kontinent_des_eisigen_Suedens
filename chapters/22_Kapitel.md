@@ -412,7 +412,7 @@ Herr Gouverneur erzählte, dort aus alten Ruinen gewonnen, wo der Ursprung dann
 noch unsicherer ist.
 
 :::: { .wrap-60 .float-right  }
-![Auf der Hochebene von Longwood.](Zum_Kontinent_des_eisigen_Suedens_623.jpg "Auf der Hochebene von Longwood."){#b622}
+![Auf der Hochebene von Longwood.](Zum_Kontinent_des_eisigen_Suedens_623.jpg "Auf der Hochebene von Longwood."){#b623}
 ::::
 
 *Die Vegetation der Insel* ist heute zum größten Teile eingeschleppt. Nur in

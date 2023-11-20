@@ -99,15 +99,15 @@ zuteil werden ließ.
 
 # Karten und Tafeln.<br /> {#ABB .unnumbered}
 
-(@) [Route des „Gauß“ 1901 — 1903, nach den vorläufigen Bestimmungen.](#b669) (Als Anlage.)
+(@) [Route des „Gauß“ 1901 — 1903, nach den vorläufigen Bestimmungen.](ch026.xhtml#b669) (Als Anlage.)
 (@) [Fahrten und Forschungen des „Gauß“ im indischen Ozean und im südlichen Eismeer](ch013.xhtml#b252)
 (@) [Längsschnitt des „Gauß“.](ch006.xhtml#b064) Von A. Stehr
 (@) [Maschinenanlage und Rohrleitungen des „Gauß“.](ch006.xhtml#b077) Von A. Stehr
 (@) [Hauptspant des „Gauß“.](ch006.xhtml#b081) Von A. Stehr
 (@) [Die Kapverdeninsel Sao Vicente.](ch007.xhtml#b098) Von E. Werth
-(@) [Kippthermometer.](ch007.xhtml#b117)  Von A. Stehr
-(@) [Der Tafelberg bei Kapstadt.](ch008.xhtml#b144) Nach M. Jurisch
-(@) [Zwei Crozetinseln](ch009.xhtml#b168)
+(@) [Kippthermometer.](ch008.xhtml#b117)  Von A. Stehr
+(@) [Der Tafelberg bei Kapstadt.](ch009.xhtml#b144) Nach M. Jurisch
+(@) [Zwei Crozetinseln](ch010.xhtml#b168)
 (@) [Kerguelen](ch010.xhtml#b176)
 (@) [Panorama der Beobachtungsbucht auf Kerguelen.](ch011.xhtml#b193a) Von E. Philip
 (@) [Die Umgebung der Kerguelenstation.](ch011.xhtml#b195) Von H. Gazert

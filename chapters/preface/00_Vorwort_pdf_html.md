@@ -99,9 +99,9 @@ zuteil werden ließ.
 
 # Karten und Tafeln.<br /> {#ABB .unnumbered}
 
-(@) Route des „Gauß“ 1901 — 1903, nach den vorläufigen Bestimmungen. (Als Anlage.)
-(@) [Fahrten und Forschungen des „Gauß“ im indischen Ozean und im südlichen Eismeer](#b212)
-(@) [Längsschnitt des „Gauß“.](ch006.xhtml#b064) Von A. Stehr
+(@) [Route des „Gauß“ 1901 — 1903, nach den vorläufigen Bestimmungen.](#b669) (Als Anlage.)
+(@) [Fahrten und Forschungen des „Gauß“ im indischen Ozean und im südlichen Eismeer](#b252)
+(@) [Längsschnitt des „Gauß“.](#b064) Von A. Stehr
 (@) [Maschinenanlage und Rohrleitungen des „Gauß“.](#b077) Von A. Stehr
 (@) [Hauptspant des „Gauß“.](#b081) Von A. Stehr
 (@) [Die Kapverdeninsel Sao Vicente.](#b098) Von E. Werth
@@ -114,10 +114,9 @@ zuteil werden ließ.
 (@) [Heard-Eiland](#b212)
 (@) [Gruppen von Eiskristallpyramiden.](#b265) Von H. Gazert
 (@) [Magnetische Registrierkurven. Von Fr. Bidlingmaier](#b362a)
-(@) Die Posadowskybai mit dem Winterlager des „Gauß“
-(@) Eisstrukturen. Von H. Gazert
-(@) St. Paul und Neu-Amsterdam. Nach Velain
-(@) Skizze der Karroo
-(@) Verwitterungserscheinungen. Von H. Gazert und E. Philipi
+(@) [Die Posadowskybai mit dem Winterlager des „Gauß“](#b440)
+(@) [St. Paul und Neu-Amsterdam. Nach Velain](#b556a)
+(@) [Skizze der Karroo](#b589)
+(@) [Verwitterungserscheinungen.]{#b636a} Von H. Gazert und E. Philipi
 (@) [Der „Gauß“ im Scholleneise bei der Lotung.](#b000) Von E. Philippi. (Als Titelbild.)
 

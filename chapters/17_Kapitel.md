@@ -695,7 +695,7 @@ können, wenn ich die Oberfläche antaute, während es vorher salzfrei erschien.
 
 |                                       |                                       |                                       |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| ![](Zum_Kontinent_des_eisigen_Suedens_465a.jpg "")Faser oder Plattenstruktur des Meereises, in einem Schnitt senkrecht zur Oberfläche. |![](Zum_Kontinent_des_eisigen_Suedens_465b.jpg ""){#b465}Kornstruktur von der Oberfläche eines Eisbergs. |![](Zum_Kontinent_des_eisigen_Suedens_465c.jpg "")Flasriges Eis (Eisberg).|
+| ![](Zum_Kontinent_des_eisigen_Suedens_465a.jpg "")Faser oder Plattenstruktur des Meereises, in einem Schnitt senkrecht zur Oberfläche. |![](Zum_Kontinent_des_eisigen_Suedens_465b.jpg ""){#b465a}Kornstruktur von der Oberfläche eines Eisbergs. |![](Zum_Kontinent_des_eisigen_Suedens_465c.jpg "")Flasriges Eis (Eisberg).|
 | ![](Zum_Kontinent_des_eisigen_Suedens_465d.jpg "")Klares Spaltenband mit Luftkanälen vertikal zu den Spaltwänden und flächenartiger Anordnung kleiner Luftblasen in der Mitte.|![](Zum_Kontinent_des_eisigen_Suedens_465e.jpg "")Schmutzbänderung aus den untersten Lagen eines Eisbergs.|![](Zum_Kontinent_des_eisigen_Suedens_465f.jpg "")Gebogene Schmutzbänderung ebendaher.|
 | ![](Zum_Kontinent_des_eisigen_Suedens_465g.jpg "")Wurzelfasereis nahe dem Schmutzband eines Eisbergs.|![](Zum_Kontinent_des_eisigen_Suedens_465h.jpg "")Breccieneis durch Süßwasser verkittet.|![](Zum_Kontinent_des_eisigen_Suedens_465i.jpg "")Breccieneis durch Schnee verkittet.|
 | ![](Zum_Kontinent_des_eisigen_Suedens_465j.jpg "")Klares Band mit gestreckten Luftkanälen aus den mittleren Teilen des Eisbergs.|![](Zum_Kontinent_des_eisigen_Suedens_465k.jpg "")Feine Bänderung eines Eisbergs.|![](Zum_Kontinent_des_eisigen_Suedens_465l.jpg "")Grobe Bänderung aus den oberen Lagen des Eisbergs.|
@@ -873,7 +873,7 @@ Seemanns erklang:
 |      Weil ich dort den vielen Dreck nicht mag sehn, O je!
 |      Zwar ist es da dunkel, er fällt nicht sehr auf,
 |      Doch gäbe es einen gewaltigen Hauf;
-|      O Weh! O Weh! S Weh! 
+|      O Weh! O Weh! O Weh! 
 |      Jetzt schmilzt auch der deckende Schnee!
 |      
 |      Wie gerne legt ich mich rauchend ins Bett, O je!

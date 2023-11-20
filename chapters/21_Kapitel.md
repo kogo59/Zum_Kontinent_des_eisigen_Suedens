@@ -788,7 +788,7 @@ weite, allgemeine Ausebnung, wie in der großen Karroo, welche die Eisenbahn von
 Matjesfontein bis Beaufort West in etwa zwölfstündiger Fahrt durchquert.
 
 :::: { .wrap-100  .break-before }
-![Kartenskizze der Karroo. <small>Auf Grundlage von Bartholomew's Tourist Map of South-Africa Maassstab 1:250.000</small>](Zum_Kontinent_des_eisigen_Suedens_589.jpg "Kartenskizze der Karroo."){#b589}
+![Kartenskizze der Karroo. <small>Auf Grundlage von Bartholomew's Tourist Map of South-Africa Maassstab 1:250.000</small>.](Zum_Kontinent_des_eisigen_Suedens_589.jpg "Kartenskizze der Karroo."){#b589}
 ::::
 
 *Geologisch* besteht dieser Teil Südafrikas, wenn ich die interessanten
@@ -1027,7 +1027,7 @@ Regen zu jeder Jahreszeit begegnen, wenn dieselben auch für die Bewohner noch z
 spärlich sind.
 
 :::: { .wrap-100 }
-![Blick auf die Kette der Witteberge südlich von Laingsburg.](Zum_Kontinent_des_eisigen_Suedens_596.jpg "Blick auf die Kette der Witteberge südlich von Laingsburg."){#b595}
+![Blick auf die Kette der Witteberge südlich von Laingsburg.](Zum_Kontinent_des_eisigen_Suedens_596.jpg "Blick auf die Kette der Witteberge südlich von Laingsburg."){#b596}
 ::::
 
 Das Buffels-Reviertal, welches unser Weg nach Süden an verschiedenen Stellen

@@ -378,10 +378,6 @@ langgezogenen, heulenden Ton. Es war ein unendlicher trister, graulicher
 Eindruck in dieser Öde, wo mit dem ersten Betreten des Landes auch sogleich ein
 Leben erlosch.
 
-:::: { .wrap-60 .float-left }
-![Rand des Inlandeises am Gaußberg.](Zum_Kontinent_des_eisigen_Suedens_304.jpg "Rand des Inlandeises am Gaußberg."){#b304}
-::::
-
 *In dem Eishaus* hatten wir es nach reichlichen Reparaturen zunächst
 verhältnismäßig gut. Die Temperatur darin betrug für gewöhnlich etwa 9° unter 0.
 Durch die Fugen drang der Wind noch hindurch, doch fand bald jeder Mittel und

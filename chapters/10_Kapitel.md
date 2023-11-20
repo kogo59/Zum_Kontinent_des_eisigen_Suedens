@@ -116,7 +116,7 @@ beschatteten Steilwänden Wilkes einst getäuscht haben. Wir hätten an diesem
 klaren Tage das Land sehen müssen, wenn es so weit nach Norden gereicht hätte,
 wie es Wilkes zeichnet, gleichwie der Challenger es gesehen hätte, wenn dort
 Land läge, wo Wilkes seine Sichtung hatte, während Wilkes sich wegen des Wetters
-und der größeren Entfernung leichter irren konnte ([Karte 2](ch013.xhtml#b212)).^[^1001]^
+und der größeren Entfernung leichter irren konnte ([Karte 2](ch012.xhtml#b212)).^[^1001]^
 
 Am 16. Februar kam ich erst um 7 Uhr an Deck, um gerade noch das Ende einer
 Robbenjagd zu sehen. Vanhöffen und Ott hatten die Robbe geschossen, Björvig war
