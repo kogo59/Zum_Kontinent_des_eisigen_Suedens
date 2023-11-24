@@ -290,7 +290,7 @@ fiel, hatte diesen Erfolg, wenn es dabei auch so warm war, daß wir meistens ohn
 allerdings häufig über Kälte klagten.
 
 :::: { .wrap-60 .float-left }
-![Agavengruppe am Bahnhof von Simonstown.](Zum_Kontinent_des_eisigen_Suedens_576.jpg "Agavengruppe am Bahnhof von Simonstown."){#b576}
+![Straße in Simonstown.](Zum_Kontinent_des_eisigen_Suedens_576.jpg "Straße in Simonstown."){#b576}
 ::::
 
 *Unsere Mannschaft* war in den ersten Tagen natürlich wenig auf dem Schiffe zu
