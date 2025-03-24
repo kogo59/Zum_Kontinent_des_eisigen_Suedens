@@ -431,8 +431,3 @@ schrieb:
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

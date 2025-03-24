@@ -8,3 +8,6 @@
   Dieses Werk ist gemeinfrei in den Vereinigten Staaten, weil es vor dem 1. Januar 1929 veröffentlicht wurde.
 % 1904, Berlin, Druck und Verlag von Georg Reimer
 
+:::: {.w-90 .break-before .break-after }
+![](cover.jpg "")
+::::

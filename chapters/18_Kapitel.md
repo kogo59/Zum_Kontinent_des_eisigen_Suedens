@@ -885,9 +885,3 @@ Winterquartier, doch nun mit der sicheren Aussicht weiter zu kommen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-

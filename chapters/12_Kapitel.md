@@ -741,9 +741,4 @@ und am Morgen darauf konnten wir in bester Stimmung unser Schiff verlassen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 

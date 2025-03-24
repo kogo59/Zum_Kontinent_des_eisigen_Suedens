@@ -1393,9 +1393,3 @@ Unternehmungen vorzubereiten*, welche durch den zweiten Winter sonst noch
 erforderlich würden.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-

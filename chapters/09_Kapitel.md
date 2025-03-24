@@ -706,11 +706,5 @@ ein Beispiel für die Ähnlichkeit der Faunen in den beiden Polargebieten
 angeführt werden kann.
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0901]: [*Heardinsel*: vergleiche [Heard](https://de.wikipedia.org/wiki/Heard_(Insel))]{.footnote}

@@ -915,10 +915,3 @@ noch einmal wiederholt und gelangen bei schönem Wetter vortrefflich.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-

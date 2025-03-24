@@ -723,9 +723,3 @@ und begaben uns danach frühzeitig zur Ruhe.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}

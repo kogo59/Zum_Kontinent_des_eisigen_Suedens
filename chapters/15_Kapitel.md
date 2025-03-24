@@ -1228,9 +1228,3 @@ bei solchen selbständigen Touren mehrere auch verloren gegangen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-

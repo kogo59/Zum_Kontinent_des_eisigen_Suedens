@@ -1506,10 +1506,3 @@ war.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-

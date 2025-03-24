@@ -823,12 +823,6 @@ vereint hat.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0701]: [*Possessioninsel*: vergleiche [Île de la Possession](https://de.wikipedia.org/wiki/%C3%8Ele_de_la_Possession)]{.footnote}
 

@@ -1620,9 +1620,3 @@ wahrscheinlich ernähren.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-

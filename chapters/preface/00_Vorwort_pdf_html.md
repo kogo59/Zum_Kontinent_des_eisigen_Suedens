@@ -117,6 +117,6 @@ zuteil werden ließ.
 (@) [Die Posadowskybai mit dem Winterlager des „Gauß“](#b440)
 (@) [St. Paul und Neu-Amsterdam. Nach Velain](#b556a)
 (@) [Skizze der Karroo](#b589)
-(@) [Verwitterungserscheinungen.]{#b636a} Von H. Gazert und E. Philipi
+(@) [Verwitterungserscheinungen.](#b636a) Von H. Gazert und E. Philipi
 (@) [Der „Gauß“ im Scholleneise bei der Lotung.](#b000) Von E. Philippi. (Als Titelbild.)
 

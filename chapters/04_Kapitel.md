@@ -766,11 +766,5 @@ darauf anzeigte, daß wir uns noch in ihrem Bereiche befanden.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 

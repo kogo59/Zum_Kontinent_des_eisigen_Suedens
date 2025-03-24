@@ -1376,9 +1376,3 @@ waren, wenig oder garnicht in diesem Sinne beachtet.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-

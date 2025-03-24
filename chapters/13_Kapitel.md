@@ -1424,9 +1424,3 @@ sondern für die ganze Zukunft der Expedition von besonderm Wert war.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-

@@ -1003,11 +1003,6 @@ Wesen gehörten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0101]: [*Henry Villard*: vergleiche [Henry Villard](https://de.wikipedia.org/wiki/Henry_Villard)]{.footnote}
 
@@ -1044,8 +1039,6 @@ Wesen gehörten.
 [^0117]: [*Dr. Graf von Posadowsky-Wehner“*: vergleiche [Arthur von Posadowsky-Wehner](https://de.wikipedia.org/wiki/Arthur_von_Posadowsky-Wehner)]{.footnote}
 
 [^0118]: [*Dr. Lewald*: vergleiche [Theodor Lewald](https://de.wikipedia.org/wiki/Theodor_Lewald)]{.footnote}
-
-[^0119]: [*Kapitän zur See von Frantzius*: vergleiche [Ernst von Frantzius](https://de.wikipedia.org/wiki/Ernst_von_Frantzius)]{.footnote}
 
 [^0120]: [*Dr. Hans Gazert*: vergleiche [Hans Gazert](https://de.wikipedia.org/wiki/Hans_Gazert)]{.footnote}
 

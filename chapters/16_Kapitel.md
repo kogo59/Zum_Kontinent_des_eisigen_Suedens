@@ -1707,9 +1707,3 @@ Oberfläche kaum etwas merkte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-

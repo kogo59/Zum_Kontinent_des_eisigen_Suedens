@@ -876,10 +876,4 @@ Die allseitige Freude war groß und er hatte für Spott nicht zu sorgen.<br /><b
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 

@@ -891,9 +891,9 @@ ganze Expedition von ihr für mehr als drei Tage frische Nahrung gehabt.
 :::: break-before
 |                                       |                                       |
 |:-------------------------------------:|:-------------------------------------:|
-| ![](Zum_Kontinent_des_eisigen_Suedens_636a.jpg ""){#b636a}Im Meerwasser zersetzter Eisblock. |![](Zum_Kontinent_des_eisigen_Suedens_636b.jpg "")Granitblock aus der Camps Bai bei Kapstadt, durch Sand geschliffen (vgl. Bild Seite 150).|
-| ![](Zum_Kontinent_des_eisigen_Suedens_636c.jpg "")Von treibendem Schnee erodierter Schneeblock.|![](Zum_Kontinent_des_eisigen_Suedens_636d.jpg "")Verwitterter Sandsteinblock aus den Zwartebergen bei Weels Poort.|
-| ![](Zum_Kontinent_des_eisigen_Suedens_636e.jpg "")Verwitterter erratischer Gneißblock vom Gipfel des Gaußbergs.|![](Zum_Kontinent_des_eisigen_Suedens_636f.jpg "")Verwitterter Trachytblock von Ascension (vgl. Bild Seite 635).|
+| ![](Zum_Kontinent_des_eisigen_Suedens_636a.jpg ""){#b636a width=40%}<br />Im Meerwasser zersetzter Eisblock. |![](Zum_Kontinent_des_eisigen_Suedens_636b.jpg ""){#b636b width=40% }<br />Granitblock aus der Camps Bai bei Kapstadt, durch Sand geschliffen (vgl. Bild Seite 150).|
+| ![](Zum_Kontinent_des_eisigen_Suedens_636c.jpg ""){#b636c width=40%}<br />Von treibendem Schnee erodierter Schneeblock.|![](Zum_Kontinent_des_eisigen_Suedens_636d.jpg ""){#b636d width=40%  }Verwitterter Sandsteinblock aus den Zwartebergen bei Weels Poort.|
+| ![](Zum_Kontinent_des_eisigen_Suedens_636e.jpg ""){#b636e width=40%}<br />Verwitterter erratischer Gneißblock vom Gipfel des Gaußbergs.|![](Zum_Kontinent_des_eisigen_Suedens_636f.jpg ""){#b636f width=40%}<br />Verwitterter Trachytblock von Ascension (vgl. Bild Seite 635).|
 Table: Verwitterungserscheinungen.
 ::::
 
@@ -1697,8 +1697,3 @@ einer Übungsfahrt unterwegs war.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

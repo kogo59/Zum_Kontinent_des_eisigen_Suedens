@@ -1037,6 +1037,5 @@ bewährt hat.*
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0301]: [*Naphtha*: vergleiche [Naphta](https://de.wikipedia.org/wiki/Naphtha)]{.footnote}

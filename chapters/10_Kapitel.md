@@ -994,11 +994,5 @@ blieb, und wir lagen fest.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1001]: [Sowohl Gauß, wie Challenger schließen aus der Ansammlung von Eisbergen in jener Gegend, daß weiter südlich Land liegen müsse, welches der Gauß denn auch fand und bisher ausschließlich als „hohes Land“ bezeichnet hat, ohne ihm einen Namen zu geben, da der Name „Kaiser Wilhelm II Land“ nur auf die nahezu ostwestlich streichende Küstenlinie zu beiden Seiten des Gaußbergs bezogen wurde. Ob es aber berechtigt ist, dieses „hohe Land“ jetzt als Terminationland zu bezeichnen, erscheint mir fraglich, weil die Landsichtung von Wilkes kaum anders, wie als Täuschung aufgefaßt werden kann. Refraktion kann manches erklären, aber erfahrungsgemäß nicht so viel, wie hier erforderlich wäre. Auch hätte Challenger eine westliche Gegenküste zu einer von Wilkes etwa wirklich gesichteten Ostküste noch eher sehen müssen, als die letztere, was aber beides nicht der Fall war.]{.footnote}

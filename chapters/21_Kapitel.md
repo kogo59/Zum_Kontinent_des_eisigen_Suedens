@@ -1570,9 +1570,3 @@ Heimat entgegen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
